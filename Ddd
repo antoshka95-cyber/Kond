@@ -1,0 +1,4 @@
+    git clone https://github.com/dark-dao/screenshot-helper.git
+    cd screenshot-helper
+    npm install
+    npm run build
